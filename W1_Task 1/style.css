@@ -1,0 +1,46 @@
+.container{
+text-align: center;
+}
+.section-one{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.section-two div{
+    display: inline-block;
+    width: 200px;
+    border: solid black 2px;
+    border-radius: 5px;
+}
+.section-two img{
+    height: 300px;
+    width: 200px;
+    vertical-align: top; 
+}
+
+.section-two button{
+    background-color: black;
+    color: aliceblue;
+}
+
+.section-three{
+    background-color: black;
+     color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.section-three table{
+    display: inline-table;
+}
+.section-three__table{
+   display: inline-block;
+   width: 400px;
+   padding-bottom: 10px;
+    
+}
+.section-three__table button{
+    width: 100%;
+    background-color: rgb(225, 225, 74);
+}
